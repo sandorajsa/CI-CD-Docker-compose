@@ -28,3 +28,4 @@ jobs:
         docker compose build
         docker login ghcr.io -u sandorajsa -p ${{ secrets.GHCR_TOKEN }}
         docker compose push
+        
