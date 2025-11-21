@@ -3,13 +3,13 @@ name: Build and upload with compose
 on:
   push:
     branches: 
-      - master
+      - main
     paths:
       - compose.yaml
 
   pull_request:
     branches:
-      - master
+      - main
     paths:
       - compose.yaml
   
