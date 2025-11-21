@@ -1,0 +1,155 @@
+{
+    "jokes": [
+      {
+        "ID": 1,
+        "Joke": "Miért teszi a szőke nő a hűtőbe az órát? Hogy legyen friss idő!",
+        "Type": "Szőke nő"
+      },
+      {
+        "ID": 2,
+        "Joke": "Miért áll a szőke nő a sarokban? Mert azt hallotta, hogy ott 90 fok van.",
+        "Type": "Szőke nő"
+      },
+      {
+        "ID": 3,
+        "Joke": "Mit mond a szőke nő a szőnyegen? – Portré készül rólam.",
+        "Type": "Szőke nő"
+      },
+      {
+        "ID": 4,
+        "Joke": "Miért nem ír levelet a szőke nő? Mert nem tudja megnyalni az e-mailt.",
+        "Type": "Szőke nő"
+      },
+      {
+        "ID": 5,
+        "Joke": "Miért dobja a szőke nő a kávét a számítógépére? Hogy legyen gyors kávé.",
+        "Type": "Szőke nő"
+      },
+      {
+        "ID": 6,
+        "Joke": "Miért teszi a szőke nő a szemüveget a tévére? Hogy jobban lássa a műsort.",
+        "Type": "Szőke nő"
+      },
+      {
+        "ID": 7,
+        "Joke": "Miért visz a szőke nő létrát a boltba? Hogy a magas árakat is elérje.",
+        "Type": "Szőke nő"
+      },
+      {
+        "ID": 8,
+        "Joke": "Hogy hívják a szőke nőt haj nélkül? Gondolatmenet.",
+        "Type": "Szőke nő"
+      },
+      {
+        "ID": 9,
+        "Joke": "Miért tesz a szőke nő egy pohár vizet az asztalra? Hogy legyen mivel leöblíteni a poroltót.",
+        "Type": "Szőke nő"
+      },
+      {
+        "ID": 10,
+        "Joke": "Miért nézi a szőke nő az üres papírlapot? Mert kíváncsi, mi lesz a következő rész.",
+        "Type": "Szőke nő"
+      },
+      {
+        "ID": 11,
+        "Joke": "Miért viszi a rendőr a létrát a munkahelyére? Mert magasabb beosztásba került.",
+        "Type": "Rendőr"
+      },
+      {
+        "ID": 12,
+        "Joke": "Mit csinál a rendőr a számítógépen? Windows-t pucol.",
+        "Type": "Rendőr"
+      },
+      {
+        "ID": 13,
+        "Joke": "Miért viszi a rendőr a zseblámpát az alagútba? Hogy ne menjen be a sötétbe.",
+        "Type": "Rendőr"
+      },
+      {
+        "ID": 14,
+        "Joke": "Miért áll a rendőr a piros lámpánál? Mert megállás nélkül dolgozik.",
+        "Type": "Rendőr"
+      },
+      {
+        "ID": 15,
+        "Joke": "Miért nem siet a rendőr a bűnöző után? Mert a szabály az szabály.",
+        "Type": "Rendőr"
+      },
+      {
+        "ID": 16,
+        "Joke": "Miért visz a rendőr egy kötelet a járőrözéshez? Hogy megkösse a problémákat.",
+        "Type": "Rendőr"
+      },
+      {
+        "ID": 17,
+        "Joke": "Mit ír a rendőr a naplójába? Ma sem történt semmi.",
+        "Type": "Rendőr"
+      },
+      {
+        "ID": 18,
+        "Joke": "Miért viszi a rendőr a biciklit a szobába? Hogy belső köröket tegyen.",
+        "Type": "Rendőr"
+      },
+      {
+        "ID": 19,
+        "Joke": "Hány rendőr kell egy villanykörte becsavarásához? Három: egy tartja, kettő forgatja a széket.",
+        "Type": "Rendőr"
+      },
+      {
+        "ID": 20,
+        "Joke": "Miért mosolyog a rendőr a piros lámpánál? Mert villant a kamera.",
+        "Type": "Rendőr"
+      },
+      {
+        "ID": 21,
+        "Joke": "Móricka megkérdezi az apját: – Apa, mi az a dilemma? – Amikor anyád és a kocsid egyszerre indulnak meg a szakadék felé.",
+        "Type": "Mórickás"
+      },
+      {
+        "ID": 22,
+        "Joke": "Móricka kérdezi: – Tanító néni, büntetés jár azért, ha valaki nem tett semmit? – Nem, Móricka! – Jó, mert nem csináltam meg a házi feladatot.",
+        "Type": "Mórickás"
+      },
+      {
+        "ID": 23,
+        "Joke": "Móricka vacsoránál megkérdi: – Apa, mi az a kannibalizmus? – Csend legyen, és edd meg, amit adtam!",
+        "Type": "Mórickás"
+      },
+      {
+        "ID": 24,
+        "Joke": "Móricka meséli az iskolában: – Tegnap eltörtem egy poharat. – Ez semmi, én egy egész osztályt padlóra tettem!",
+        "Type": "Mórickás"
+      },
+      {
+        "ID": 25,
+        "Joke": "Móricka megáll a tanár előtt: – Tanár úr, meg tudja magyarázni, miért késik mindig a dolgozatom? – Mert mindig rossz jegyeket kapok rá.",
+        "Type": "Mórickás"
+      },
+      {
+        "ID": 26,
+        "Joke": "Móricka kérdezi: – Apa, mi az a gravitáció? – Nem tudom, fiam, de azért nem szabad vele játszani.",
+        "Type": "Mórickás"
+      },
+      {
+        "ID": 27,
+        "Joke": "Móricka kint focizik: – Miért van rajtad esőkabát? – Hogy jobban csússzon a lövés!",
+        "Type": "Mórickás"
+      },
+      {
+        "ID": 28,
+        "Joke": "Móricka sír az iskolában: – Miért sírsz? – Mert a tanár azt mondta, hogy legyek csendben, amíg vissza nem jön!",
+        "Type": "Mórickás"
+      },
+      {
+        "ID": 29,
+        "Joke": "Móricka dicsekszik: – Apu vett egy új kocsit! – És hova parkolta? – A másik oldalán.",
+        "Type": "Mórickás"
+      },
+      {
+        "ID": 30,
+        "Joke": "Móricka beír a naplóba: – Tanárnő, én is megbuktam, mint mindenki más?",
+        "Type": "Mórickás"
+      }
+    ]
+  }
+  
